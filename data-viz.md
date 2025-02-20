@@ -20,6 +20,8 @@ Lesson content will go here
 
 ::::::::::::: challenge
 
+### Challenge header
+
 Challenge text
 
 ::::: solution
