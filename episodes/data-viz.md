@@ -18,6 +18,20 @@ exercises: 0
 
 Lesson content will go here
 
+::::::::::::: challenge
+
+Challenge text
+
+::::: solution
+
+solution text
+
+::::::::::::::
+
+:::::::::::::::::::::::
+
+
+
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - You can use python together with the streamlit library to create dashboards
